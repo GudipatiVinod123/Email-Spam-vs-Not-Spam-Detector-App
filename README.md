@@ -1,5 +1,5 @@
 App live link
-> 🔗 **App Link:**> 🔗 **App Link:**[ https://your-app-name.streamlit.app](https://email-spam-vs-not-spam-detector-app-yhylxnhqq4lkknpjvq4fb7.streamlit.app)
+> 🔗 **App Link:**> 🔗 **App Link:*(https://email-spam-vs-not-spam-detector-app-yhylxnhqq4lkknpjvq4fb7.streamlit.app)
 
 # 📧 Email Spam vs Not Spam Detector
 
